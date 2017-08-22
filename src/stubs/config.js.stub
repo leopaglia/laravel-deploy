@@ -1,0 +1,7 @@
+const APP_CONFIG = {
+    ENV: 'develop',
+    DEBUG: true,
+    MAX_SIZE: 1,
+    BYTE: 1048576,
+    SERVICE_URL: 'http://' + window.location.host + '/'
+};
